@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I' m Andrea from the university of Pisa and i'm trying to understand 
-github and create some project about cybersecurity 
+I'm Andrea from Florence here there are some projects that i made.
 
 <!--
 **Mugna46/Mugna46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
